@@ -2834,7 +2834,7 @@ input[type="button"].btn-block {
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
-  margin-right: 1rem;
+ 
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap; }
@@ -7425,7 +7425,7 @@ textarea.form-control {
 
 .section-wrapper-2 .quote {
   background: #993333;
-  background: #993333;
+ 
   color: #000;
   width: 100%;
   font-size: 24px;
@@ -7922,12 +7922,12 @@ textarea.form-control {
       padding: 10% 7%; } }
 
 .block-3 .text {
-  background: #E7EFF3; }
+  background: #f8f9fa; }
   .block-3 .text .bigheading {
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: .1em;
-    color: #a3c2d1; }
+    color: #993333; }
   .block-3 .text .heading {
     font-size: 30px;
     margin-bottom: 30px; }
@@ -8258,8 +8258,6 @@ textarea.form-control {
 
 /*! QIUZ* - Fra hjemmesiden (har rettet i kodningen) : https://github.com/kevin578/javascript-quiz */
 
-
-
 #quiz {
 	background: #f8f9fa;
 	padding: 10px 10px 10px 20px;
@@ -8286,7 +8284,7 @@ input {
 
 
 #button {
-	background: #dc3545;
+	background: #993333;
 	border: none;
 	border-radius: 5px;
 	padding: 10px;
@@ -8300,7 +8298,7 @@ input {
 
 #button:hover {
 	background: white;
-	border: 1px solid #dc3545;
+	border: 1px solid #993333;
 	color: black;
 	cursor: pointer;
 
@@ -8319,14 +8317,9 @@ input {
 }
 
 
-
 #mc {
 	display: inline;
 } 
-
-
-
-
 
 
 
